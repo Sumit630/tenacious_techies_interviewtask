@@ -3,7 +3,6 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:provider/provider.dart';
 import 'package:tenacious_techies_interviewtask/views/order/order_list_screen.dart';
 import 'providers/order_provider.dart';
-
 void main() {
   runApp(
     MultiProvider(
